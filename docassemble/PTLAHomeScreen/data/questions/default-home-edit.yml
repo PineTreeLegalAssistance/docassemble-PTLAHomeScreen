@@ -45,3 +45,8 @@ question: |
   **Pine Tree Legal Assistance Forms Project**
 subquestion: |
   <p>Welcome to PTLA's Forms Project!</p> <p>This site hosts our <a href="https://docassemble.org/">DocAssemble</a> interviews to help people with legal issues like debt collection, security deposits, and public benefits like SNAP or TANF.</p> <p><strong>These interviews are not legal advice - you should talk with a lawyer if possible before making decisions or taking legal action.</strong> But if you are going to court or handling an issue on your own, these tools may be helpful.</p> <p>For more easy to read legal information, or to contact Pine Tree Legal Assistance for help, visit our website <a href="https://ptla.org">PTLA.org</a></p>
+  <h3>Or try one of our tools!</h3>
+  <ul>
+  <li><a href="https://apps.ptla.org/start/snapcalc/">Maine SNAP Benefits Estimator</a></li>
+  <li><a href="https://apps.ptla.org/start/tanfcalc/">Maine TANF Benefits Estimator</a></li>
+  </ul>
