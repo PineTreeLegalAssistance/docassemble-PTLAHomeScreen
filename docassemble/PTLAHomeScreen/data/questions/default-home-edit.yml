@@ -42,11 +42,34 @@ default screen parts:
 id: home
 mandatory: True
 question: |
-  **Pine Tree Legal Assistance Forms Project**
+  <div style="text-align: center;">
+    <img src="https://www.ptla.org/themes/custom/ptla8/images/logo.png" alt="PTLA logo" /><br />
+    <br />
+    <h2>Welcome to the Pine Tree Legal Assistance Forms Project!</h2>
+  </div> 
 subquestion: |
-  <h2>Welcome to PTLA's Forms Project!</h2> <p>This site hosts our <a href="https://docassemble.org/">Docassemble</a> interviews to help Maine people with legal issues like debt collection, security deposits, and public benefits like SNAP or TANF.</p> <p><strong>These interviews are not legal advice - you should talk with a lawyer if possible before making decisions or taking legal action. </strong> But if you are going to court or handling an issue on your own, these tools may be helpful.</p> <p>For more easy to read legal information, or to contact Pine Tree Legal Assistance for help, visit our website <a href="https://ptla.org">PTLA.org</a></p>
-  <h3>Try one of our tools!</h3>
+  <p>This site hosts our online tools to help Maine people with common legal issues. For easy to read legal information, or to contact Pine Tree Legal Assistance for help, visit our main website <a href="https://ptla.org">PTLA.org</a></p> <p><strong>These tools are not legal advice - you should talk with a lawyer if possible before making decisions or taking legal action. </strong> But if you are going to court or handling an issue on your own, these tools may be helpful.</p>
+  <h3>Rental Housing</h3>
+  <p><strong><a href="https://apps.ptla.org/start/securitydeposit/">Maine Security Deposit Return Letter</a></strong><br />
+  A tool that will help you write a letter to your former landlord asking for your security deposit back. <a href="https://www.ptla.org/security-deposit">Learn more about security deposits and your rights as a renter in Maine</a>.</p>
+  <p><strong><a href="https://apps.ptla.org/start/habitability/">Maine Warranty of Habitability Notice Letter</a></strong><br />
+  This tool will help you write a letter to your landlord letting them know about serious problems in your rental, and asking them to fix the problems. <a href="https://www.ptla.org/unsafe-housing">Learn more about Maine's Warranty of Habitability</a>.</p>
+  <h3>SNAP & TANF</h3>
   <ul>
-  <li><a href="https://apps.ptla.org/start/snapcalc/">Maine SNAP Benefits Estimator</a></li>
-  <li><a href="https://apps.ptla.org/start/tanfcalc/">Maine TANF Benefits Estimator</a></li>
+  <li><a href="https://apps.ptla.org/start/snapcalc/"><strong>Maine SNAP Benefits Estimator</strong></a></li>
+  <li><a href="https://apps.ptla.org/start/tanfcalc/"><strong>Maine TANF Benefits Estimator</strong></a></li>
   </ul>
+  <p>You can use these tools to get a quick estimate of your eligibility for SNAP (Food Supplemets) or TANF benefits in Maine.</p>
+  <h3>Debt Collection</h3>
+  <p><a href="https://apps.ptla.org/start/debthelper/"><strong>Maine Debt Collection Hearing Helper</strong></a><br />
+  This tool will help you learn about your rights and possible defenses, and organize your financial information so you can advocated for yourself if you have been sued for a debt.</p>
+  <p><a href="https://apps.ptla.org/start/debtvalidation/"><strong>Debt Validation Form Letter</strong></a><br />
+  You can use this tool if you have recently been contacted by a debt collector. It will help you draft a letter to the collector requesting they validate and provide more information about a debt they are trying to collect from you, and disputing that you owe debt.</p>
+  <p><a href="https://apps.ptla.org/start/stopcollections/"><strong>Maine 'Stop Collection' Form Letter</strong></a><br />
+  A tool to help Maine people who only have exempt income and property draft a letter to a debt collector asking them to stop collection on an account.</p>
+  <h3>Court Fee Waiver</h3>
+  <p><a href="https://apps.ptla.org/start/feewaiver/"><strong>Maine Court Fee Waiver Packet</strong></a><br />
+  This tool will help you fill out the two forms you will need to ask a Maine court to waive court fees and costs because you are not able to pay them. It contains the Application to Proceed without Payment of Fees (CV-067) and the Financial Affidavit (CV-191). You will need to have the Financial Affidavit notarized, and will need to file these forms with the court yourself.</p>
+  <br />
+  <p>For easy to read legal information, or to contact Pine Tree Legal Assistance for help, visit our main website <a href="https://ptla.org">PTLA.org</a></p>
+  
